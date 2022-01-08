@@ -19,3 +19,5 @@
 ## Project Contributors
 - [Uong Tran Trung Do](https://github.com/dokun1812)
 - [Bui Nguyen Nhat Hoang](https://github.com/nhathoang1510)
+## Submodule of Project
+- [RASPBERRY PI4 DETECT QR CODE](https://github.com/nhathoang1510/pi4_detect_qrcode)
